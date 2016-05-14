@@ -1,0 +1,1 @@
+This directory holds a local lookup table for the ulanr package.

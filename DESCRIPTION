@@ -1,0 +1,14 @@
+Package: ulanr
+Type: Package
+Title: Container for the Local Database Constructed By ulanr
+Version: 0.1.0.9000
+Authors@R: person("Matthew", "Lincoln", email = "matthew.d.lincoln@gmail.com",
+  role = c("aut", "cre"))
+Description: Holds the database constructed by the local version of ulanr. This
+  allows the ulanr package to be updated without erasing an already-downloaded
+  database.
+License: MIT + file LICENSE
+LazyData: TRUE
+URL: https://github.com/mdlincoln/ulanrdb
+BugReports: https://github.com/mdlincoln/ulanrdb/issues
+RoxygenNote: 5.0.1
