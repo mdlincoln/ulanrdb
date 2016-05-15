@@ -1,4 +1,4 @@
-Package: ulanr
+Package: ulanrdb
 Type: Package
 Title: Container for the Local Database Constructed By ulanr
 Version: 0.1.0.9000
